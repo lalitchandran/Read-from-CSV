@@ -23,7 +23,8 @@ print("Rows",len(df.axes[1]))
 ```
 
 ## OUTPUT:
-![alt text](image.png)
+![image](https://github.com/23002248/Read-from-CSV/assets/151701774/79637654-8062-4049-9ea8-4518f5b9fec6)
+
 
 ## RESULT:
 Thus the program is written to read the csv file
